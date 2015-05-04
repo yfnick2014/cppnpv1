@@ -2,7 +2,7 @@
 notes for "C++ Network Programming, Volume 1"
 
 ##Menu
-- 第0章 设计课题、中间件方案、ACE
+- [第0章 设计课题、中间件方案、ACE](content/00.md)
 
 第1篇 面向对象网络编程
 
